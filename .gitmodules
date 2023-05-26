@@ -1,0 +1,6 @@
+[submodule "wassimovie-front"]
+	path = wassimovie-front
+	url = https://github.com/sleiderr/wassimovie-front
+[submodule "wassimovie-back"]
+	path = wassimovie-back
+	url = https://github.com/sleiderr/wassimovie-back
