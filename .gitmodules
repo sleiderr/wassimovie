@@ -4,3 +4,9 @@
 [submodule "wassimovie-back"]
 	path = wassimovie-back
 	url = https://github.com/sleiderr/wassimovie-back
+[submodule "wassimovie-wasm-bindings"]
+	path = wassimovie-wasm-bindings
+	url = git@github.com:sleiderr/wassimovie-wasm-bindings.git
+[submodule "wassi-kdann"]
+	path = wassi-kdann
+	url = git@github.com:sleiderr/wassi-kdann.git
