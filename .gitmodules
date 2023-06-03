@@ -10,3 +10,6 @@
 [submodule "wassi-kdann"]
 	path = wassi-kdann
 	url = git@github.com:sleiderr/wassi-kdann.git
+[submodule "wassimovie-algo"]
+	path = wassimovie-algo
+	url = https://github.com/sleiderr/wassimovie-algo
